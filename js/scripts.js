@@ -13,7 +13,7 @@ $(function () {
   });
 });
 
-$(function(){
+$(function() {
   $(document).ready(function () {
     $("#reserveButton").click(function () {
       $("#reserveModal").modal("show");
